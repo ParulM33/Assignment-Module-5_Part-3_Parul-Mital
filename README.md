@@ -23,7 +23,7 @@ The model was evaluated using accuracy, classification report, and confusion mat
 Traditional models treat text as independent words, but sequence models consider word order. RNNs struggle with long-term dependencies, while LSTMs solve this by maintaining memory over time. Attention mechanisms further improve performance by focusing on important words, and transformers allow efficient processing of entire sequences.
    
 ## Conclusion
-The project demonstrates how text data can be processed and classified using both traditional and deep learning approaches. While TF-IDF provides a solid baseline, sequence models such as LSTM offer better understanding of language context.
+This project helped in understanding how text data can be processed using both traditional and deep learning approaches. It also highlighted the importance of sequence modeling in capturing context in language.
    
 ## Repository Structure
 
